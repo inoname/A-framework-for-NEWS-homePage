@@ -51,27 +51,27 @@
 - (void)setupChildVces
 {
     KLNewsController *vc01 = [[KLNewsController alloc] init];
-    vc01.title = @"军事";
+    vc01.title = @"栏目首页";
     [self addChildViewController:vc01];
     
     KLNewsController *vc02 = [[KLNewsController alloc] init];
-    vc02.title = @"体育";
+    vc02.title = @"新闻";
     [self addChildViewController:vc02];
     
     KLNewsController *vc03 = [[KLNewsController alloc] init];
-    vc03.title = @"科技";
+    vc03.title = @"活动";
     [self addChildViewController:vc03];
     
     KLNewsController *vc04 = [[KLNewsController alloc] init];
-    vc04.title = @"音乐";
+    vc04.title = @"通知";
     [self addChildViewController:vc04];
     
     KLNewsController *vc05 = [[KLNewsController alloc] init];
-    vc05.title = @"娱乐";
+    vc05.title = @"教务";
     [self addChildViewController:vc05];
     
     KLNewsController *vc06 = [[KLNewsController alloc] init];
-    vc06.title = @"游戏";
+    vc06.title = @"社会";
     [self addChildViewController:vc06];
     
     KLNewsController *vc07 = [[KLNewsController alloc] init];

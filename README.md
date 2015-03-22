@@ -6,4 +6,5 @@
 * 导航栏上文字的渐变效果
 * 新闻模块view的懒加载
 * 新闻模块间切换的动画效果
-![image](https://github.com/kouliang/A-framework-for-NEWS-homePage/blob/master/image/1.png)
+
+![image](https://github.com/kouliang/A-framework-for-NEWS-homePage/blob/master/image/1.gif)
